@@ -22,7 +22,7 @@
 
 - 💬 Ping me about **design**, **branding**, **development**, **design thinking**
   
-- 📧 Contact me: [iradukundajosue16@gmail.com](mailto:contato.iradukundajosue16@gmail.com)
+<!-- - 📧 Contact me: [iradukundajosue16@gmail.com](mailto:contato.iradukundajosue16@gmail.com) -->
 
 - ⚡️ Fun fact: I'm a huge fan of Footbal
 
