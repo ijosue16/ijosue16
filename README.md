@@ -16,7 +16,7 @@
 
 - 🌍 I'm mostly active within the **Microverse Community**
 
-- 💅 Designed: [Tourism website](https://ijosue16.github.io/Tourism-website/), [LeaderBoard](https://ijosue16.github.io/leaderboard/dist/index.html), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💅 Designed: [Tourism website](https://ijosue16.github.io/Tourism-website/), [LeaderBoard](https://ijosue16.github.io/leaderboard/dist/index.html), etc…
 
 - 🌱 Learning all about **Open Source**
 
