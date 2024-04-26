@@ -3,9 +3,7 @@
 
 ### I'm a Full-Stack Developer living in Kigali, Rwanda.
 
-- 🏢 I'm currently studying at **Microverse**
-
-- 📙 Learning: **React Js, Ruby on Rails**
+- 📙 Learning: **Flutter**
 
 - 💻 Techs: <img  width="33" align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img   width="33" align = "center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
