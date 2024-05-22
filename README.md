@@ -14,8 +14,7 @@
 
 - 🌍 I'm mostly active within the **Microverse Community**
 
-- 💅 Designed: [Tourism website](https://ijosue16.github.io/Tourism-website/), [Space Travelers' Hub](https://github.com/ijosue16/space-travelers-hub), [
-metrics app](https://github.com/ijosue16/metrics-app), etc…
+- 💅 Designed: [Mineral Traceability & Inventory Management Software](https://github.com/ijosue16/mining-database), [School Library Management System](https://github.com/ijosue16/library-management-system-front-end), etc…
 
 - 🌱 Learning all about **Open Source**
 
